@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello github!!!"
+echo "created a test file"
+
